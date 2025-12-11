@@ -1,4 +1,5 @@
 Markov Chain Text Generator
+
 This project implements a lightweight Markov chain–based text generation system in Python. It analyzes a training text file and builds a probabilistic model that predicts the next character based on the previous n characters (Markov order). Higher orders lead to more coherent text, while lower orders generate more random sequences. The project is designed to be simple, instructional, and easy to run inside Google Colab.
 
 Features
